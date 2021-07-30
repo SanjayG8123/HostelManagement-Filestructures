@@ -1,2 +1,2 @@
-# HostelManagement-Filestructures
-Hostel Management System
+# HostelManagementSystem
+Run this code using Dev C++ 
